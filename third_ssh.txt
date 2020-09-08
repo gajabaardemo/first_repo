@@ -1,0 +1,1 @@
+This file is after we have created the SSH key and configured the SSH key
